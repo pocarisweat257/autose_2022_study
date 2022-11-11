@@ -10,4 +10,4 @@ int main()
     printf("g = %d\n", g);
     return 0;
 }
-
+// hellohello
